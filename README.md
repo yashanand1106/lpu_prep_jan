@@ -47,3 +47,8 @@ This repository is prepared to provide practise qustions for dsa
 
 ## Recursion + DP
 - [ ] 42. [Tower Of Hanoi](https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1)
+
+## Linked List
+- [ ] 43. [Reverse a Linked List](https://www.geeksforgeeks.org/dsa/reverse-a-linked-list/)
+- [ ] 44. [Middle of the Linked List](https://www.geeksforgeeks.org/dsa/reverse-a-linked-list/)
+- [ ] 45. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)
