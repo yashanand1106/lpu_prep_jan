@@ -93,7 +93,7 @@ This repository is prepared to provide practise qustions for dsa
 - [ ] 83.[Postfix to Infix Conversion](https://www.geeksforgeeks.org/problems/postfix-to-infix-conversion/1)
 - [ ] 84.[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 - [ ] 85.[Prefix Evaluation](https://www.geeksforgeeks.org/problems/prefix-evaluation/1)
-- [ ] 86.[Postfix to Prefix Conversion](https://www.geeksforgeeks.org/dsa/postfix-prefix-conversion/1)
+- [ ] 86.[Postfix to Prefix Conversion](https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/1)
 - [ ] 87.[Prefix to Postfix Conversion](https://www.geeksforgeeks.org/problems/prefix-to-postfix-conversion/1)
 - [ ] 88.[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
 - [ ] 89.[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
